@@ -4,7 +4,7 @@
   "version": "1.1",
   "authors": [
     {
-      "name": "MatchaGreen adapted to Pure Cocoa",
+      "name": "pure Cocoa",
       "id": "1113130615630471290"
     }
   ],
