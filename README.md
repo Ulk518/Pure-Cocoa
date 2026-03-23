@@ -4,7 +4,7 @@
   "version": "1.1",
   "authors": [
     {
-      "name": "pure Cocoa",
+      "name": "by risk",
       "id": "1113130615630471290"
     }
   ],
